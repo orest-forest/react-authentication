@@ -1,0 +1,7 @@
+export const ACCOUNT_REGISTRATION = "ACCOUNT_REGISTRATION";
+export const CLEAR_STORE = 'CLEAR_STORE';
+export const CONFIRM_LOGIN = 'CONFIRM_LOGIN';
+export const EDIT_PROFILE = 'EDIT_PROFILE';
+export const CANCEL_EDIT = 'CANCEL_EDIT';
+export const SERVER_CRASH = 'SERVER_CRASH';
+export const CURRENT_USER = 'CURRENT_USERl';
